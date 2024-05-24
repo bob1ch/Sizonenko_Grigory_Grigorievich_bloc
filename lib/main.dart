@@ -7,3 +7,4 @@ void main() {
   Bloc.observer = const CounterObserver();
   runApp(const CounterApp());
 }
+//blah-blah
